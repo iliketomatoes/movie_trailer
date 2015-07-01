@@ -2,7 +2,7 @@
 Udacity - Movie Trailer Website
 
 ## Quick start
-There are two options are available:
+There are two options available:
 
 - [Download this repo](https://github.com/iliketomatoes/movie_trailer/archive/master.zip).
 - Clone the repo: `git clone https://github.com/iliketomatoes/movie_trailer.git`. 
