@@ -37,4 +37,5 @@ mediterraneo = media.Movie("Mediterraneo",
 
 movies = [forrest_gump, life_is_beautiful, back_to_the_future, ghostbusters, inglorious_basterds, mediterraneo]
 
+#Here we create the page with the list defined above
 fresh_tomatoes.open_movies_page(movies)
